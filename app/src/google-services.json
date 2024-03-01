@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127822215777",
+    "project_id": "crearcuenta-fe5e5",
+    "storage_bucket": "crearcuenta-fe5e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127822215777:android:30a298a753807b629ec820",
+        "android_client_info": {
+          "package_name": "com.mario.cuentas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL4tYNLIQaCCg96nN7BbLCooWfQRNowZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
